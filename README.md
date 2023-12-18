@@ -1,0 +1,2 @@
+# End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project
+This project showcases an end-to-end data engineering pipeline focusing on NYC Yellow Taxi Rides past 3 months data. The project follows a multi-phase process initiation with ingesting NYC taxi data, transforming and loading it, then modeling data for analysis. Final stages focus on insightful visualizations and report generation in Power BI.
