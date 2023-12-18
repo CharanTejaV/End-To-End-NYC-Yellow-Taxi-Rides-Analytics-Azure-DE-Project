@@ -61,6 +61,7 @@ The dataset utilized in this project is the TLC Trip Record Data, sourced from t
 ## Step 7: Power BI Reporting
   * Connect to the Azure SQL Database and create detailed and visually appealing reports for effective data representation.
 [Power BI Report]()
+
 ![image](https://github.com/CharanTejaV/End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project/assets/143735053/e69868c2-704b-4be2-8e86-aeafb84c5bc4)
 
 ![image](https://github.com/CharanTejaV/End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project/assets/143735053/69bcde37-c8a4-4e0c-97d9-decbbad7d878)
