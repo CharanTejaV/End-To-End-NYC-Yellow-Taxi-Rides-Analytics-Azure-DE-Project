@@ -66,7 +66,7 @@ The dataset utilized in this project is the TLC Trip Record Data, sourced from t
 
 ![image](https://github.com/CharanTejaV/End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project/assets/143735053/69bcde37-c8a4-4e0c-97d9-decbbad7d878)
 
-![image](https://github.com/CharanTejaV/End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project/assets/143735053/e74dd51f-7532-4548-9325-c62a37ff9be0)
+![image](https://github.com/CharanTejaV/End-To-End-NYC-Yellow-Taxi-Rides-Analytics-Azure-DE-Project/assets/143735053/1b59b692-d27c-467b-bba0-f4b1b122cb0a)
 
 ## Step 8: Stakeholder Engagement and Insights
   * Upon completion of the Power BI report, publish it to clients/stakeholders for review.
