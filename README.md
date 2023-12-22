@@ -75,4 +75,4 @@ The dataset utilized in this project is the TLC Trip Record Data, sourced from t
 # Conclusion
 In this intricate journey through the NYC Yellow Taxi Analytics project, we embarked on a transformative data engineering expedition. This comprehensive end-to-end data engineering project encompasses data acquisition, transformation, cleaning, modeling, storage, analysis, and reporting, culminating in the generation of meaningful insights and actionable reports. It is not just a data engineering endeavor; it is a narrative of extracting meaning from raw information. The journey concludes not just with reports but with a newfound understanding, derived from the amalgamation of data, technology, and thoughtful analysis.
 
-#THANK YOU
+# THANK YOU
